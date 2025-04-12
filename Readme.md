@@ -5,7 +5,7 @@ Tous les points traités sont ceux qui constituent les points à réaliser pour 
 
 ## Mise en place préalable
 
-Avant de lancer le projet, il faut s'assurer que votre machine ai `graphviz`.  
+Avant de lancer le projet, il faut s'assurer que votre machine aii `graphviz`.  
 
 ## Lancer les tests
 
