@@ -24,7 +24,7 @@ python [nom_du_fichier_test_compatible].py
 
 ## Résultats
 
-Les résultats (par exemple, les fichiers `.png` générés pour les automates) sont automatiquement enregistrés dans le dossier `résultats` du projet.
+Les résultats (par exemple, les fichiers générés pour les automates) sont automatiquement enregistrés dans le dossier `résultats` du projet.
 Vous pourrez trouver, avec des noms explicites, les résultats du dernier lancement de code en fichiers exportés dans le dossier `résultats`.
 Les fichiers dont le nom de sauvegarde dans le fichier de test n'est pas changé entre deux lancement de code se verront remplacés par la nouvelle version. Veuillez donc à renommer les fichiers qui pourraient être à garder entre deux lancement de code, dans le fichier `tests.py` ou dans le dossier `résultats`.
 Il y a également un affichage ordonné des résultats dans le terminal, avec les résultats attendus et les résultats renvoyés.
