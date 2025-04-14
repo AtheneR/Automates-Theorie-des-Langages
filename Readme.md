@@ -1,7 +1,6 @@
 # Projet Théorie des langages Athène Rousseau Rambach
 
-Ce projet consiste à mettre en place de la création et manipulation d'automates en Python. 
-Tous les points traités sont ceux qui constituent les points à réaliser pour le projet indiqués dans le sujet, sans les bonus.
+Ce projet consiste à mettre en place de la création et manipulation d'automates en Python.
 
 ## Mise en place préalable
 
