@@ -5,7 +5,11 @@ Tous les points traités sont ceux qui constituent les points à réaliser pour 
 
 ## Mise en place préalable
 
-Avant de lancer le projet, il faut s'assurer que votre machine aii `graphviz`.  
+Avant de lancer le projet, il faut s'assurer que votre machine ai `graphviz`.
+Pour télécharger graphviz, vous pouvez vous rendre sur ce site `https://graphviz.org/download/` et télécharger la dernière version.
+Pensez à ajouter graphviz au PATH si ce n’est pas fait automatiquement.
+Il faut également installer la bibliothèque Python associée :
+pip install graphviz
 
 ## Lancer les tests
 
