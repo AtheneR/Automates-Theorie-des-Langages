@@ -39,3 +39,7 @@ Il y a également un affichage ordonné des résultats dans le terminal, avec le
 - `fonctions.py` : contient les fonctions de manipulation d'automates qui ne sont pas directement des fonctions dans la classe Automate
 - `résultats/` : dossier où sont enregistrées les résultats des fonctions
 - `supports/` : dossier où sont enregistrées les fichiers qui servent lors du lancement de `tests.py` ainsi que quelques fichiers supplémentaires si besoin
+
+## Note
+
+Ce projet étant dans le cadre d'une évaluation en Théorie des Langages en L2 d'informatique, la note attribuée a été de 20/20.
